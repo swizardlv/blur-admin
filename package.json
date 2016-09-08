@@ -1,5 +1,5 @@
 {
-  "name": "blur_admin",
+  "name": "blur_admin_express",
   "version": "1.2.0",
   "devDependencies": {
     "browser-sync": "~2.9.11",
@@ -44,5 +44,8 @@
   },
   "scripts": {
     "postinstall": "bower install"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
