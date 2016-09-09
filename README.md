@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/akveo/blur-admin.svg?branch=master)](https://travis-ci.org/akveo/blur-admin)
+
+BlurAdmin works under express , packaged by webpack
 
 # BlurAdmin Angular admin panel front-end framework
 
